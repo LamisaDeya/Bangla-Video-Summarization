@@ -35,12 +35,7 @@ Our system integrates audio preprocessing, speech-to-text transcription, context
 
 ## Pipeline Overview
 
-<div align="center"> 
 
-![Pipeline](path/to/pipeline_figure.png)
-**Figure:** End-to-end Bengali academic video summarization pipeline
-
-</div>
 
 The pipeline consists of the following stages:
 1. **Audio Extraction & Preprocessing**: Extract audio and apply adaptive amplification
