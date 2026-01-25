@@ -35,8 +35,6 @@ Our system integrates audio preprocessing, speech-to-text transcription, context
 
 ## Pipeline Overview
 
-
-
 The pipeline consists of the following stages:
 1. **Audio Extraction & Preprocessing**: Extract audio and apply adaptive amplification
 2. **Speech-to-Text**: Google's Universal Speech Model (USM) for transcription
@@ -68,7 +66,7 @@ We provide two benchmark datasets:
 **Dataset Statistics:**
 - **Summarization Dataset**: Text chunks (401-422 words) paired with summaries (150-199 words)
 - **Title Generation Dataset**: Summaries (1,003-1,011 words) paired with titles (7-19 words)
-- **Subject Distribution**: Physics (29%), Chemistry (20%), Biology (14%), Math & ICT (14%), CSE (13%), Other (13%)
+- **Subject Distribution (Summarization Dataset)**: Physics (29%), Chemistry (20%), Biology (14%), Math & ICT (14%), CSE (13%), Other (13%)
 
 **Download:**
 - Datasets are available in `Summarization_dataset.xlsx` and `titles_dataset.xlsx`
