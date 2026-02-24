@@ -234,7 +234,7 @@ This codebase builds upon the following resources:
 
 For questions or collaboration:
 - **Lamisa Bintee Mizan Deya**: deya1907049@stud.kuet.ac.bd
-- **Farhatun Shama**: shama1907033@stud.kuet.ac.bd
+- **Farhatun Shama**: farhatunshama@gmail.com
 - **Repository**: [https://github.com/LamisaDeya/Bangla-Video-Summarization](https://github.com/LamisaDeya/Bangla-Video-Summarization)
 
 ---
